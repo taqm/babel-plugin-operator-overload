@@ -3,10 +3,12 @@
 ## Instration
 ```sh
 # npm
-npm install -D babel-plugin-operator-overload
+# npm install -D babel-plugin-operator-overload
+npm install -D https://github.com/taqm/babel-plugin-operator-overload
 
 # yarn
-yarn add -D babel-plugin-operator-overload
+# yarn add -D babel-plugin-operator-overload
+yarn add -D https://github.com/taqm/babel-plugin-operator-overload
 ```
 
 ## Usage
