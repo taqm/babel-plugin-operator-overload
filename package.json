@@ -1,0 +1,8 @@
+{
+  "name": "babel-plugin-operator-overload",
+  "version": "0.0.1",
+  "description": "This plugin is usable to 'operator overload' in JavaScript",
+  "keywords": ["babel"],
+  "author": "taqm",
+  "license": "MIT"
+}
