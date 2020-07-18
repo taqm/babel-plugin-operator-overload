@@ -1,24 +1,22 @@
-# babel-plugin-operator-overload
+# babel-plugin-transform-operator-overload
 
 ## Instration
 ```sh
 # npm
-# npm install -D babel-plugin-operator-overload
-npm install -D https://github.com/taqm/babel-plugin-operator-overload
+npm install -D babel-plugin-transform-operator-overload
 
 # yarn
-# yarn add -D babel-plugin-operator-overload
-yarn add -D https://github.com/taqm/babel-plugin-operator-overload
+yarn add -D babel-plugin-transform-operator-overload
 ```
 
 ## Usage
 
-Please add this in `.babelrc`.
+Please add this in `babel.config.js`.
 ```json
 {
   "plugins": [
     ... ,
-    "operator-overload"
+    "babel-plugin-transform-operator-overload"
   ],
 }
 ```

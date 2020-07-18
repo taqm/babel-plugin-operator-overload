@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-operator-overload",
+  "name": "babel-plugin-transform-operator-overload",
   "version": "0.0.1",
   "description": "enable to 'operator overload' in JavaScript.",
   "main": "index.js",

@@ -1,5 +1,5 @@
 module.exports = ({ types: t }) => ({
-  name: 'babel-plugin-operator-overload',
+  name: 'babel-plugin-transform-operator-overload',
   visitor: {
     LabeledStatement(parentPath) {
       if (parentPath.node.label.name !== 'opol') {
