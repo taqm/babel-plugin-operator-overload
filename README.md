@@ -1,3 +1,6 @@
+![.github/workflows/main.yml](https://github.com/taqm/babel-plugin-transform-operator-overload/workflows/.github/workflows/main.yml/badge.svg)
+[![npm version](https://badge.fury.io/js/babel-plugin-transform-operator-overload.svg)](https://badge.fury.io/js/babel-plugin-transform-operator-overload)
+
 # babel-plugin-transform-operator-overload
 
 ## Instration
