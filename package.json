@@ -4,7 +4,8 @@
   "description": "enable to 'operator overload' in JavaScript.",
   "main": "index.js",
   "scripts": {
-    "test": "jest src/*"
+    "test": "jest *",
+    "lint": "eslint index.js test/*"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
