@@ -3,7 +3,7 @@
 
 # babel-plugin-transform-operator-overload
 
-## Instration
+## Installation
 ```sh
 # npm
 npm install -D babel-plugin-transform-operator-overload
